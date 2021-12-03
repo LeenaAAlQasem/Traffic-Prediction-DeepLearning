@@ -6,11 +6,11 @@ By Leena AlQasem | Leenabdulh@gmail.com
 
 
 ## Introduction:
-Traffic prediction is very important to any urban city, especially in crowded areas. Predicting traffic can be very useful for managing future traffic. Therefore, the idea proposed for this project is to use deep learning algorithms to help us predict traffic at a certain time and location. The goal of the project is to help smart cities have a better understanding of traffic patterns that lead to better management of traffic and solving many problems related to infrastructure and safety.
+Traffic prediction is very important for any urban city, especially in crowded areas. Predicting traffic can be very useful for managing future traffic. Therefore, the idea proposed for this project is to use deep learning algorithms to help us predict traffic at a certain time and location. The goal of the project is to help smart cities have a better understanding of traffic patterns that leads to better management of traffic and solves many problems related to infrastructure and safety.
 
 
 ## Dataset
-The dataset for this project consists of date, time, vehicles, and junction information. The data are collected from sensors at every junction. It contains over 48000 observations, and it is obtained from Kaggle as an open-source, [Here](https://www.kaggle.com/fedesoriano/traffic-prediction-dataset).
+The dataset for this project consists of datetime, vehicles, and junction information. The data is collected from sensors at every junction. It has over 48, 000 observations and was obtained as an open-source from Kaggle, [Here](https://www.kaggle.com/fedesoriano/traffic-prediction-dataset).
 
 
 ## Tools
