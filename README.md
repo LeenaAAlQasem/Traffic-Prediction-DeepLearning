@@ -16,3 +16,10 @@ The dataset for this project consists of datetime, vehicles, and junction inform
 ## Tools
 - Technologies: Jupyter Notebook, Python.
 - Libraries: Pandas, Numpy, Matplot, Seaborn, Sklearn, Keras, and Tensorflow
+
+
+## Contributions:
+
+[Randa Almohammadi](https://github.com/rmalmoha)  <br>
+[Leena AlQasem](https://github.com/LeenaAAlQasem) <br>
+[Banan Alhethlool](https://github.com/BananAlhethlool)
